@@ -1,0 +1,13 @@
+source sites:
+
+https://www.kaggle.com/datasets
+https://www.foi.gov.ph/
+https://data.gov.ph/index/public/dataset
+
+*****************************************
+Dataset source:
+
+
+https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset/data
+
+*****************************************
